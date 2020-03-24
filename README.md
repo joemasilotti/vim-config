@@ -152,6 +152,9 @@ Search context in Vim in a sidebar using `ag` output.
 
 Use `:SideSearch` or `:SS` to search for files.  Customized to work with ripgrep.
 
+## [vim-slim](https://github.com/slim-template/vim-slim)
+Syntax highlighting for the [slim templating language](http://slim-lang.com/).
+
 ## [vim-surround](https://github.com/tpope/vim-surround)
 Quoting/parenthesizing made simple.
 
