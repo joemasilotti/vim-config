@@ -115,3 +115,6 @@
 [submodule "pack/nertzy/start/vim-fish"]
 	path = pack/nertzy/start/vim-fish
 	url = https://github.com/georgewitteman/vim-fish.git
+[submodule "pack/buildgroundwork/start/vim-coffee-script"]
+	path = pack/buildgroundwork/start/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
